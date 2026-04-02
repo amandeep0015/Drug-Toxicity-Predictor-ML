@@ -1,6 +1,12 @@
+
+
+
 # 🧪 Drug Toxicity Prediction using Machine Learning
 
 This project implements an end-to-end Machine Learning pipeline to predict the toxicity of chemical compounds. By leveraging the **Tox21 dataset**, the model identifies potential "red flags" in molecular structures that indicate toxicity risk, specifically focusing on the **NR-AR (Androgen Receptor)** pathway.
+
+## 🌐 Live Demo
+Check out the live web application here: [Drug Toxicity Predictor](https://drug-toxicity-predictor-ml-rqh7an86rzq76yiuenssey.streamlit.app/)
 
 ## 🚀 Key Features
 - **High Accuracy:** Achieved a **97.66% accuracy** score using XGBoost.
